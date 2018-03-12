@@ -1,0 +1,8 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "version": "1.4.1",
+    "libraryName": "sp-angular-2",
+    "libraryId": "fc6bf75f-ff79-4328-b0b4-e0212c7799b3",
+    "environment": "spo"
+  }
+}

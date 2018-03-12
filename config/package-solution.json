@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-angular-2-client-side-solution",
+    "id": "fc6bf75f-ff79-4328-b0b4-e0212c7799b3",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-angular-2.sppkg"
+  }
+}
